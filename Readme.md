@@ -3,11 +3,13 @@ Working Space for Security things
 I've got a list of machines that I'll be breaking. Each will be provided with a walkthrough on how I broke it and my thoughts as I was moving through it. I'll start with the list of vulnhub machines below and move into HackTheBox.eu machines, maybe blending them together. This is my journey to the OSCP, or at least to the level of competency they OSCP requires. I am accepting sponsors to fund an official OSCP attempt. Please contact me on LinkedIn if you'd like to discuss sponsoring or general job opportunities, https://www.linkedin.com/in/jordan-rimert
 
 Completed:
+
 https://www.vulnhub.com/entry/kioptrix-level-1-1,22/
 
 
 
 In Progress:
+
 https://www.vulnhub.com/entry/kioptrix-level-11-2,23/
 
 https://www.vulnhub.com/entry/kioptrix-level-12-3,24/
